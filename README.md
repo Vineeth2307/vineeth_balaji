@@ -1,19 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to vineeth portfolio
 
-You can use the [editor on GitHub](https://github.com/Vineeth2307/vineeth_balaji/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Timeseries Forecasting
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Timeseries forecasting carried out using prophet and H20. 
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Requirements 1=
+Pandas, Numpy and prophet
+## Test 2
+### Test  3
 
 - Bulleted
 - List
@@ -32,6 +30,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vineeth2307/vineeth_balaji/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
